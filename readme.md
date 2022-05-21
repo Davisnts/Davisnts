@@ -4,7 +4,7 @@
 My name is Davi Santos, I'm 18 years old, my nickname is Only and I'm a analysis and systems development student.
 
 ### :clipboard: Technologies:
-  ![Python]https://img.shields.io/badge/python-ED8B00?style=for-the-badge&logo=python&logoColor=white
+  ![Python](https://img.shields.io/badge/python-ED8B00?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🚀 Tools
 
