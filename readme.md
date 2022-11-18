@@ -5,14 +5,14 @@ My name is Davi Santos, I'm 19 years old, my nickname is Only and I'm a analysis
 
 ### :clipboard: Technologies:
   ![Python](https://img.shields.io/badge/python-ED8B00?style=for-the-badge&logo=python&logoColor=white)
-
+  ![Javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=yellow)
 ### 🚀 Tools
 
   ![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=yellow)
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-008B8B?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
   ![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-gray?style=for-the-badge&logo=github&logoColor=purple)
-  ![Javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=yellow)
-  ![React](https://img.shields.io/badge/React-c5c5c5?style=for-the-badge&logo=react&logoColor=blue)
+
+
 
 <br/>
 
