@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 ### Welcome to my github 💫
-My name is Davi Santos, I'm 21 years old, my nickname is Only and I'm a analysis and systems development student.
+My name is Davi Santos, I'm 22 years old, my nickname is Only and I'm a analysis and systems development.
 
 ### :clipboard: Technologies:
   ![Python](https://img.shields.io/badge/python-ED8B00?style=for-the-badge&logo=python&logoColor=white)
@@ -10,14 +10,15 @@ My name is Davi Santos, I'm 21 years old, my nickname is Only and I'm a analysis
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+  ![Angular](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
+  
 ### 🚀 Tools
 
   ![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=yellow)
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-008B8B?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
   ![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-gray?style=for-the-badge&logo=github&logoColor=purple)
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 
   
   
